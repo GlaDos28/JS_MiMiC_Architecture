@@ -284,7 +284,7 @@ controller.make("sum two numbers and double the result", {
 });
 ```
 
-When creating a controller, this is one mediator to be initialized in the CU by default. To add new cores, use the command
+When creating the controller, this is one mediator to be initialized in the CU by default. To add new cores, use the command
 
 ```javascript
 controller.addMediator();
